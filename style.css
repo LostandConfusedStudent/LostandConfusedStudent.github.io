@@ -1,0 +1,15 @@
+/* This affects the header. */
+h1 {
+    color: crimson;
+}
+
+/* This affects the paragraph tag with class two */
+.two {
+    color: blue;
+    background: yellow;
+}
+
+/* This affects paragraph tags */
+p {
+    color: darkmagenta;
+}
